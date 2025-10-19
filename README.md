@@ -34,9 +34,17 @@ Add predictive analytics using Python integration.
 Include customer satisfaction metrics for deeper insights.
 
 ## 📸 Dashboard Preview
+<p align="center">
+  <img src="https://github.com/AdeebaAafri/UberDataAnalysis/blob/main/project_ss/Screenshot%202025-10-19%20120201.png?raw=true" width="800" />
+</p>
 
-![Uber Dashboard Screenshot](https://github.com/AdeebaAafri/UberDataAnalysis/blob/main/project_ss/Screenshot%202025-10-19%20120201.png?raw=true)
+<p align="center">
+  <img src="https://github.com/AdeebaAafri/UberDataAnalysis/blob/main/project_ss/Screenshot%202025-10-19%20120318.png?raw=true" width="800" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/AdeebaAafri/UberDataAnalysis/blob/main/project_ss/Screenshot%202025-10-19%20120442.png?raw=true" width="800" />
+</p>
 
 
 📁 How to View
