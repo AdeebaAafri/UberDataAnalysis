@@ -34,9 +34,7 @@ Add predictive analytics using Python integration.
 Include customer satisfaction metrics for deeper insights.
 
 📸 Dashboard Preview
-
-(Add your dashboard screenshots here)
-Example:
+https://github.com/AdeebaAafri/UberDataAnalysis/blob/main/project_ss/Screenshot%202025-10-19%20120201.png?raw=true
 
 
 📁 How to View
