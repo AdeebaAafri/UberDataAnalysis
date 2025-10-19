@@ -57,4 +57,4 @@ Explore the dashboard and interact with the visuals.
 If you found this project interesting or have suggestions, feel free to connect!
 
 👤 **Adeeba Aafri**
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/adeebaaafri/867281300)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/adeeba-aafri/867281300)
